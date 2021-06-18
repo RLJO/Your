@@ -2,3 +2,8 @@
 	path = WithPrice/Elfahd-odoo
 	url = git@github.com:WithPrice/Elfahd-odoo.git
 	branch = main
+
+[submodule "RLJO/Elfahd-odoo"]
+	path = RLJO/Elfahd-odoo
+	url = git@github.com:RLJO/Elfahd-odoo.git
+	branch = main
