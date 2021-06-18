@@ -1,0 +1,4 @@
+[submodule "WithPrice/Elfahd-odoo"]
+	path = WithPrice/Elfahd-odoo
+	url = git@github.com:WithPrice/Elfahd-odoo.git
+	branch = main
