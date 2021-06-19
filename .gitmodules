@@ -2,3 +2,8 @@
 	path = WithPrice/Elfahd-odoo
 	url = git@github.com:WithPrice/Elfahd-odoo.git
 	branch = main
+
+[submodule "WithPrice/randolph_lottery"]
+	path = WithPrice/randolph_lottery
+	url = git@github.com:WithPrice/randolph_lottery.git
+	branch = master
